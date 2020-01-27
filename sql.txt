@@ -1,0 +1,21 @@
+
+
+CREATE TABLE cliente(
+id INT NOT NULL AUTO_INCREMENT, 
+PRIMARY KEY(id),
+nome VARCHAR(30), 
+url VARCHAR(100)
+)
+
+
+CREATE TABLE email(
+id INT NOT NULL, 
+email VARCHAR(50)
+)
+
+ //ogni volta differente
+CREATE TABLE cliente_*(id)(
+id_richista INT NOT NULL AUTO_INCREMENT
+//campi variabili 
+)
+
